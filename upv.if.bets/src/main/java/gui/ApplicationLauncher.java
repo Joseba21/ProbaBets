@@ -16,7 +16,6 @@ import businessLogic.BLFacadeImplementation;
 public class ApplicationLauncher {
 	
 	
-	
 	public static void main(String[] args) {
 
 		ConfigXML c=ConfigXML.getInstance();
